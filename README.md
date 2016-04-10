@@ -14,3 +14,4 @@ Drupal 7 miscellaneous tools
 
 ##### misc
 - Custom Meta Title tags, Custom Page Title tags (H1#page-title)
+- Remove default breadcrumbs
