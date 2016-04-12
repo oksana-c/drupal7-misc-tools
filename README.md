@@ -12,6 +12,9 @@ Drupal 7 miscellaneous tools
 #### multilingual
 - Redirect User to preferred language upon login
 
+### rules
+- Notify admin prior to Advanced Poll closure
+
 ##### misc
 - Custom Meta Title tags, Custom Page Title tags (H1#page-title)
 - Remove default breadcrumbs
